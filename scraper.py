@@ -31,6 +31,8 @@ id = re.search(r"#[0-9]{6}", li)
 
 with open("issue.txt", "r") as f:
     issue = f.read().splitlines()
+
+print(issue)
     
 if issue[1] != id.group():
     notify(f"The first issue has changed to {id.group()}")
