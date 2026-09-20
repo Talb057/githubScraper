@@ -1,0 +1,3 @@
+[libc][bazel] Add targets for long double functions/tests to bazel filesbazel"Peripheral" support tier build system: utils/bazel"Peripheral" support tier build system: utils/bazelgood first issuehttps://github.com/llvm/llvm-project/contributehttps://github.com/llvm/llvm-project/contributelibcStatus: Open.#223717In llvm/llvm-project;·Sukumarsawantopenedon Sep 15, 2026
+#223717
+******
